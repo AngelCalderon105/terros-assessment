@@ -2,8 +2,6 @@
 
 ## Angel Calderon
 
-# Terros Coding Assessment
-
 ## Setup Instructions
 
 # Install Dependencies
@@ -15,8 +13,6 @@ npm install
 npm run dev
 
 # React Component Design
-
-# Chess Game Application
 
 ## **Component Structure**
 
